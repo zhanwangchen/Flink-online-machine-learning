@@ -11,13 +11,13 @@ The main task of the project was to implement a set of different machine learnin
 
 algorithms consists of:
 
-Online Support Vector Machine (OSVM) 
-Online Ridge Regression (ORR) 
-Lasso w/ Shrinkage via Limit of Gibbs Sampling (SLOG) 
-Asynchronous Stochastic Variational Inference (ASVI) 
-Growing Gaussian Mixture Model (GGMM) 
+1.  Online Support Vector Machine (OSVM) 
+2.  Online Ridge Regression (ORR) 
+3.  Lasso w/ Shrinkage via Limit of Gibbs Sampling (SLOG) 
+4.  Asynchronous Stochastic Variational Inference (ASVI) 
+5.  Growing Gaussian Mixture Model (GGMM) 
 
-## Links of project:  
+## Links of the project:  
 
-* [Report](./Reports/issue18OnlineML_report.pdf)  
-* [Sources-git](./Sources/issuse18OnlineMLFlink/) 
+* [Report](./FinalReports/issue18OnlineML_report.pdf)  
+* [Sources](./Sources/issuse18OnlineMLFlink/) 
