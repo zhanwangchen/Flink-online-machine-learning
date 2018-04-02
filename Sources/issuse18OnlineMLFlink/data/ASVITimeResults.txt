@@ -1,0 +1,20 @@
+Current time : 11.03.18 01:46:56
+----------11.03.18 01:46:56------------
+----------Beginning of SVI-------------
+SVI_workerp10_W100_PSpara1: 29s
+SVI_workerp10_W100_PSpara2: 7s
+SVI_workerp5_W100_PSpara1: 0s
+SVI_workerp5_W100_PSpara2: 0s
+--------------End of SVI--------------
+----------11.03.18 01:47:32------------
+svm done
+Current time : 11.03.18 01:50:51
+----------11.03.18 01:50:51------------
+----------Beginning of SVI-------------
+SVI_workerp10_W100_PSpara1: 137s
+SVI_workerp10_W100_PSpara2: 166s
+SVI_workerp5_W100_PSpara1: 180s
+SVI_workerp5_W100_PSpara2: 155s
+--------------End of SVI--------------
+----------11.03.18 02:01:29------------
+svm done

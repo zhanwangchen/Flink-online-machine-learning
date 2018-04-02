@@ -1,0 +1,51 @@
+Current time : 10.03.18 21:52:50
+----------10.03.18 21:52:50------------
+-------Beginning of SVM----------
+SVM_workerp20_W20_PSpara1: 19s
+SVM_workerp20_W20_PSpara2: 8s
+SVM_workerp20_W20_PSpara4: 1s
+SVM_workerp50_W20_PSpara1: 1s
+SVM_workerp50_W20_PSpara2: 0s
+SVM_workerp50_W20_PSpara4: 1s
+SVM_workerp100_W20_PSpara1: 0s
+SVM_workerp100_W20_PSpara2: 1s
+Current time : 10.03.18 22:03:19
+----------10.03.18 22:03:19------------
+-------Beginning of SVM----------
+SVM_workerp20_W20_PSpara1: 1095s
+SVM_workerp20_W20_PSpara2: 818s
+SVM_workerp20_W20_PSpara4: 821s
+SVM_workerp50_W20_PSpara1: 1097s
+SVM_workerp50_W20_PSpara2: 834s
+SVM_workerp50_W20_PSpara4: 835s
+SVM_workerp100_W20_PSpara1: 830s
+SVM_workerp100_W20_PSpara2: 1086s
+SVM_workerp100_W20_PSpara4: 1109s
+SVM_workerp200_W20_PSpara1: 843s
+SVM_workerp200_W20_PSpara2: 1123s
+SVM_workerp200_W20_PSpara4: 33460s
+SVM_workerp20_W50_PSpara1: 1190s
+SVM_workerp20_W50_PSpara2: 1189s
+SVM_workerp20_W50_PSpara4: 1191s
+SVM_workerp50_W50_PSpara1: 859s
+SVM_workerp50_W50_PSpara2: 1221s
+SVM_workerp50_W50_PSpara4: 883s
+SVM_workerp100_W50_PSpara1: 8s
+SVM_workerp100_W50_PSpara2: 8s
+SVM_workerp100_W50_PSpara4: 9s
+SVM_workerp200_W50_PSpara1: 9s
+SVM_workerp200_W50_PSpara2: 8s
+SVM_workerp200_W50_PSpara4: 11s
+SVM_workerp20_W100_PSpara1: 1160s
+SVM_workerp20_W100_PSpara2: 849s
+SVM_workerp20_W100_PSpara4: 1203s
+SVM_workerp50_W100_PSpara1: 832s
+SVM_workerp50_W100_PSpara2: 829s
+SVM_workerp50_W100_PSpara4: 9012s
+SVM_workerp100_W100_PSpara1: 9s
+SVM_workerp100_W100_PSpara2: 9s
+SVM_workerp100_W100_PSpara4: 9s
+SVM_workerp200_W100_PSpara1: 9s
+SVM_workerp200_W100_PSpara2: 11s
+SVM_workerp200_W100_PSpara4: 10s
+SVM_workerp20_W200_PSpara1: 65s

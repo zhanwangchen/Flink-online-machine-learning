@@ -1,0 +1,38 @@
+/share/flink/onlineML/data/SVM/parallelism100_W1000_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism100_W1000_PSP4.txt
+acc: 0.33783359625562515
+/share/flink/onlineML/data/SVM/parallelism100_W3000_PSP1.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism100_W3000_PSP4.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism100_W500_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism100_W500_PSP4.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism50_W1000_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism50_W1000_PSP4.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism50_W3000_PSP1.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism50_W3000_PSP4.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism50_W300_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism50_W500_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism50_W500_PSP4.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism60_W1000_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism60_W1000_PSP4.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism60_W3000_PSP1.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism60_W3000_PSP4.txt
+acc: 0.36594268180405076
+/share/flink/onlineML/data/SVM/parallelism60_W500_PSP1.txt
+acc: 0.5001132036157643
+/share/flink/onlineML/data/SVM/parallelism60_W500_PSP4.txt
+acc: 0.5001132036157643

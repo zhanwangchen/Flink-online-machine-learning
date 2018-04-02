@@ -1,0 +1,46 @@
+Current time : 11.03.18 01:20:25
+----------11.03.18 01:20:25------------
+-------Beginning of SVM----------
+SVM_workerp50_W100_PSpara1: 29619s
+SVM_workerp50_W100_PSpara2: 815s
+SVM_workerp50_W100_PSpara4: 1135s
+SVM_workerp100_W100_PSpara1: 1196s
+SVM_workerp100_W100_PSpara2: 1242s
+SVM_workerp100_W100_PSpara4: 1223s
+SVM_workerp200_W100_PSpara1: 1347s
+SVM_workerp200_W100_PSpara2: 1250s
+SVM_workerp200_W100_PSpara4: 1248s
+------------End of SVM------------
+----------11.03.18 12:11:40------------
+svm done
+Current time : 11.03.18 12:37:05
+----------11.03.18 12:37:05------------
+-------Beginning of SVM----------
+SVM_workerp50_W300_PSpara1: 1142s
+------------End of SVM------------
+----------11.03.18 12:56:07------------
+svm done
+Current time : 11.03.18 14:45:50
+----------11.03.18 14:45:50------------
+-------Beginning of SVM----------
+SVM_workerp50_W500_PSpara1: 790s
+SVM_workerp50_W500_PSpara4: 3427s
+SVM_workerp60_W500_PSpara1: 2545s
+SVM_workerp60_W500_PSpara4: 853s
+SVM_workerp100_W500_PSpara1: 888s
+SVM_workerp100_W500_PSpara4: 1310s
+SVM_workerp50_W1000_PSpara1: 1290s
+SVM_workerp50_W1000_PSpara4: 1234s
+SVM_workerp60_W1000_PSpara1: 855s
+SVM_workerp60_W1000_PSpara4: 857s
+SVM_workerp100_W1000_PSpara1: 895s
+SVM_workerp100_W1000_PSpara4: 1616s
+SVM_workerp50_W3000_PSpara1: 1268s
+SVM_workerp50_W3000_PSpara4: 1261s
+SVM_workerp60_W3000_PSpara1: 901s
+SVM_workerp60_W3000_PSpara4: 901s
+SVM_workerp100_W3000_PSpara1: 876s
+SVM_workerp100_W3000_PSpara4: 1268s
+------------End of SVM------------
+----------11.03.18 21:09:45------------
+svm done

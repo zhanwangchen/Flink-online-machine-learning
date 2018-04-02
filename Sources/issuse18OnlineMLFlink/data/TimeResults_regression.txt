@@ -1,0 +1,130 @@
+Current time : 10.03.18 23:20:08
+----------10.03.18 23:20:08------------
+----------10.03.18 23:20:08------------
+-------Beginning of Ridge----------
+Ridge_workerp1_W100_PSpara1: 9s
+------------End of Ridge------------
+-----------Beginning of Slog-----------
+Slog_workerp1_W100_PSpara1: 5s
+--------------End of Slog---------------
+----------10.03.18 23:20:22------------
+Current time : 10.03.18 23:22:08
+----------10.03.18 23:22:08------------
+----------10.03.18 23:22:08------------
+-------Beginning of Ridge----------
+Ridge_workerp1_W100_PSpara1: 9s
+------------End of Ridge------------
+-----------Beginning of Slog-----------
+Slog_workerp1_W100_PSpara1: 4s
+--------------End of Slog---------------
+----------10.03.18 23:22:21------------
+Current time : 10.03.18 23:24:07
+----------10.03.18 23:24:07------------
+----------10.03.18 23:24:07------------
+-------Beginning of Ridge----------
+Ridge_workerp1_W100_PSpara1: 8s
+------------End of Ridge------------
+-----------Beginning of Slog-----------
+Slog_workerp1_W100_PSpara1: 5s
+--------------End of Slog---------------
+----------10.03.18 23:24:20------------
+Current time : 10.03.18 23:25:00
+----------10.03.18 23:25:00------------
+----------10.03.18 23:25:00------------
+-------Beginning of Ridge----------
+Ridge_workerp1_W100_PSpara1: 51s
+------------End of Ridge------------
+-----------Beginning of Slog-----------
+Slog_workerp1_W100_PSpara1: 52s
+--------------End of Slog---------------
+----------10.03.18 23:26:43------------
+----------11.03.18 02:51:48------------
+-------Beginning of Ridge----------
+Ridge_workerp5_W50_PSpara1: 42s
+Ridge_workerp5_W50_PSpara2: 41s
+Ridge_workerp10_W50_PSpara1: 36s
+Ridge_workerp10_W50_PSpara2: 41s
+Ridge_workerp15_W50_PSpara1: 40s
+Ridge_workerp15_W50_PSpara2: 34s
+Ridge_workerp5_W150_PSpara1: 40s
+Ridge_workerp5_W150_PSpara2: 33s
+Ridge_workerp10_W150_PSpara1: 35s
+Ridge_workerp10_W150_PSpara2: 41s
+Ridge_workerp15_W150_PSpara1: 40s
+Ridge_workerp15_W150_PSpara2: 42s
+Ridge_workerp5_W200_PSpara1: 43s
+Ridge_workerp5_W200_PSpara2: 32s
+Ridge_workerp10_W200_PSpara1: 44s
+Ridge_workerp10_W200_PSpara2: 43s
+Ridge_workerp15_W200_PSpara1: 43s
+Ridge_workerp15_W200_PSpara2: 36s
+Ridge_workerp5_W250_PSpara1: 49s
+Ridge_workerp5_W250_PSpara2: 34s
+Ridge_workerp10_W250_PSpara1: 40s
+Ridge_workerp10_W250_PSpara2: 32s
+Ridge_workerp15_W250_PSpara1: 42s
+Ridge_workerp15_W250_PSpara2: 33s
+Ridge_workerp5_W300_PSpara1: 43s
+Ridge_workerp5_W300_PSpara2: 44s
+Ridge_workerp10_W300_PSpara1: 34s
+Ridge_workerp10_W300_PSpara2: 36s
+Ridge_workerp15_W300_PSpara1: 45s
+Ridge_workerp15_W300_PSpara2: 35s
+Ridge_workerp5_W500_PSpara1: 42s
+Ridge_workerp5_W500_PSpara2: 37s
+Ridge_workerp10_W500_PSpara1: 43s
+Ridge_workerp10_W500_PSpara2: 36s
+Ridge_workerp15_W500_PSpara1: 43s
+Ridge_workerp15_W500_PSpara2: 34s
+Ridge_workerp5_W600_PSpara1: 41s
+Ridge_workerp5_W600_PSpara2: 41s
+Ridge_workerp10_W600_PSpara1: 36s
+Ridge_workerp10_W600_PSpara2: 35s
+Ridge_workerp15_W600_PSpara1: 44s
+Ridge_workerp15_W600_PSpara2: 36s
+------------End of Ridge------------
+-----------Beginning of Slog-----------
+Slog_workerp5_W50_PSpara1: 45s
+Slog_workerp5_W50_PSpara2: 39s
+Slog_workerp10_W50_PSpara1: 37s
+Slog_workerp10_W50_PSpara2: 39s
+Slog_workerp15_W50_PSpara1: 44s
+Slog_workerp15_W50_PSpara2: 44s
+Slog_workerp5_W150_PSpara1: 44s
+Slog_workerp5_W150_PSpara2: 37s
+Slog_workerp10_W150_PSpara1: 45s
+Slog_workerp10_W150_PSpara2: 45s
+Slog_workerp15_W150_PSpara1: 40s
+Slog_workerp15_W150_PSpara2: 37s
+Slog_workerp5_W200_PSpara1: 43s
+Slog_workerp5_W200_PSpara2: 43s
+Slog_workerp10_W200_PSpara1: 37s
+Slog_workerp10_W200_PSpara2: 33s
+Slog_workerp15_W200_PSpara1: 44s
+Slog_workerp15_W200_PSpara2: 36s
+Slog_workerp5_W250_PSpara1: 46s
+Slog_workerp5_W250_PSpara2: 37s
+Slog_workerp10_W250_PSpara1: 45s
+Slog_workerp10_W250_PSpara2: 35s
+Slog_workerp15_W250_PSpara1: 41s
+Slog_workerp15_W250_PSpara2: 38s
+Slog_workerp5_W300_PSpara1: 43s
+Slog_workerp5_W300_PSpara2: 38s
+Slog_workerp10_W300_PSpara1: 43s
+Slog_workerp10_W300_PSpara2: 35s
+Slog_workerp15_W300_PSpara1: 42s
+Slog_workerp15_W300_PSpara2: 37s
+Slog_workerp5_W500_PSpara1: 43s
+Slog_workerp5_W500_PSpara2: 34s
+Slog_workerp10_W500_PSpara1: 36s
+Slog_workerp10_W500_PSpara2: 35s
+Slog_workerp15_W500_PSpara1: 41s
+Slog_workerp15_W500_PSpara2: 41s
+Slog_workerp5_W600_PSpara1: 35s
+Slog_workerp5_W600_PSpara2: 38s
+Slog_workerp10_W600_PSpara1: 36s
+Slog_workerp10_W600_PSpara2: 41s
+Slog_workerp15_W600_PSpara1: 34s
+Slog_workerp15_W600_PSpara2: 43s
+--------------End of Slog---------------
+----------11.03.18 03:46:58------------
